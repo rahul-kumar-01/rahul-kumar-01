@@ -57,8 +57,8 @@
 <a href="https://github.com/rahul-kumar-01">
   <!-- https://github-readme-activity-graph.vercel.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kumar-01&theme=github-compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-kumar-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kumar-01&theme=algolia"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-kumar-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kumar-01&theme=algolia"/>
 </a>
 
 
